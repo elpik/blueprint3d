@@ -49,6 +49,7 @@ module BP3D.Model {
       this.roomLoadedCallbacks.fire();
       console.log('sdf1');
       console.log('sdf2');
+      console.log('sdf3');
     }
 
     private exportSerialized(): string {
